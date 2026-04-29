@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+vannstats.Rproj
+#docs
+.httr-oauth
+.DS_Store
+.quarto
